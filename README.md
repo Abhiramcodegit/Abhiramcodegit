@@ -6,7 +6,12 @@
 
 Building useful software. Exploring intelligent systems. Sharing what I learn.
 
-[Portfolio](https://abhiramcodegit.github.io/for) · [About Me](https://abhiramcodegit.github.io/about) · [The Abhi Archive](https://abhiramcodegit.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/abhiram-bhogi)
+### Let’s Build Something Amazing Together
+
+<p><a href="https://abhiramcodegit.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT_WEBSITE-ff5722?style=for-the-badge&amp;labelColor=555555" alt="Portfolio — Visit Website" /></a></p>
+<p><a href="https://abhiramcodegit.github.io/blog"><img src="https://img.shields.io/badge/BLOG-THE_ABHI_ARCHIVE-8b5cf6?style=for-the-badge&amp;labelColor=555555" alt="Blog — The Abhi Archive" /></a></p>
+<p><a href="https://www.linkedin.com/in/abhiram-bhogi"><img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-0077b5?style=for-the-badge&amp;labelColor=555555" alt="LinkedIn — Let’s Connect" /></a></p>
+<p><a href="mailto:abhiram.bhogi@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SEND_EMAIL-d44638?style=for-the-badge&amp;labelColor=555555" alt="Send Email to abhiram.bhogi@gmail.com" /></a></p>
 
 </div>
 
@@ -124,9 +129,7 @@ An engineering walkthrough of connecting Raspberry Pi audio hardware with cloud 
 
 ## 🤝 Let’s connect
 
-I enjoy conversations about software engineering, AI, infrastructure, and the things people are learning as they build. If something here overlaps with your work, let’s connect.
-
-[LinkedIn](https://www.linkedin.com/in/abhiram-bhogi) · [Email](mailto:abhiram.bhogi@gmail.com) · [Portfolio](https://abhiramcodegit.github.io/for) · [Blog](https://abhiramcodegit.github.io/blog)
+I enjoy conversations about software engineering, AI, infrastructure, and the things people are learning as they build. If something here overlaps with your work, let’s connect using the buttons above.
 
 ---
 
