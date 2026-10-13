@@ -11,84 +11,57 @@
 
 Building useful software. Exploring intelligent systems. Sharing what I learn.
 
+<br />
+
+<img src="./assets/tech-stack.svg" alt="Engineering toolkit: Python, JavaScript, TypeScript, React, Next.js, FastAPI, Django, Flask, Node.js, PostgreSQL, PostGIS, MongoDB, Supabase, PyTorch, TensorFlow, scikit-learn, Docker, GitHub Actions, Dynatrace, and Splunk" width="100%" />
+
+<br />
+
+### Featured builds
+
+<p>
+  <a href="https://github.com/Abhiramcodegit/gridlock-sperry-hackathon"><img src="./assets/project-gridlock.svg" alt="GridLock — geospatial coordination intelligence" width="48%" /></a>&nbsp;
+  <a href="https://github.com/Abhiramcodegit/gamified-habit-tracker"><img src="./assets/project-habit.svg" alt="Gamified Habit Tracker — habits as quests and progression" width="48%" /></a>
+</p>
+<p>
+  <a href="https://github.com/Abhiramcodegit/password-manager-abhiram"><img src="./assets/project-password.svg" alt="Password Manager — secure full-stack credential management" width="48%" /></a>&nbsp;
+  <a href="https://github.com/Abhiramcodegit/Abhiramcodegit.github.io"><img src="./assets/project-archive.svg" alt="The Abhi Archive — portfolio and technical blog" width="48%" /></a>
+</p>
+
+<a href="https://abhiramcodegit.github.io/projects">Explore the full project portfolio →</a> · <a href="https://github.com/Abhiramcodegit?tab=repositories">Browse public repositories →</a>
+
+<br /><br />
+
+<img src="./assets/exploring.svg" alt="Exploring AI-assisted engineering, context-aware agents, observable infrastructure, and approachable full-stack products" width="100%" />
+
+<br />
+
+<img src="./assets/connect.svg" alt="Let's build something useful — connect about software engineering, AI systems, and infrastructure" width="100%" />
+
 </div>
 
----
+<details>
+<summary><strong>Accessible text version</strong></summary>
 
-## 🛠️ Tech stack
+## Engineering toolkit
 
-Technologies I’ve used across projects, research, and engineering work.
+- **Languages:** Python, JavaScript, TypeScript
+- **Frontend:** React, Next.js, Tailwind CSS, Vite
+- **Backend and APIs:** FastAPI, Django, Flask, Node.js, Express
+- **Data:** PostgreSQL/PostGIS, MongoDB, Supabase
+- **AI and machine learning:** PyTorch, TensorFlow, scikit-learn, OpenAI API, Gemini API
+- **Infrastructure:** Docker, Git, GitHub Actions, Raspberry Pi, CI/CD, automated testing
+- **Observability:** Dynatrace, OpenPipeline, Grail, Davis AI, Splunk
 
-### Languages
+## Featured projects
 
-<p><img src="https://skillicons.dev/icons?i=py,js,ts&amp;theme=dark" alt="Python, JavaScript, TypeScript" /></p>
+- [GridLock](https://github.com/Abhiramcodegit/gridlock-sperry-hackathon): Geospatial coordination intelligence for utilities’ planned transmission projects.
+- [Gamified Habit Tracker](https://github.com/Abhiramcodegit/gamified-habit-tracker): Daily quests, XP, progression, achievements, and a leaderboard.
+- [Password Manager](https://github.com/Abhiramcodegit/password-manager-abhiram): Encrypted storage, JWT authentication, verification, and password generation.
+- [The Abhi Archive](https://github.com/Abhiramcodegit/Abhiramcodegit.github.io): My portfolio, technical blog, projects, and engineering notes.
 
-Python · JavaScript · TypeScript
+## Current interests
 
-### Frontend
+AI-assisted engineering, context-aware agents, MCP-connected tools, human-in-the-loop workflows, observable infrastructure, and approachable full-stack products.
 
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&amp;theme=dark" alt="React, Next.js, Tailwind CSS, Vite" /></p>
-
-React · Next.js · Tailwind CSS · Vite
-
-### Backend & APIs
-
-<p><img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express&amp;theme=dark" alt="FastAPI, Django, Flask, Node.js, Express" /></p>
-
-FastAPI · Django · Flask · Node.js · Express
-
-### Databases
-
-<p><img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase&amp;theme=dark" alt="PostgreSQL, MongoDB, Supabase" /></p>
-
-PostgreSQL / PostGIS · MongoDB · Supabase
-
-### AI & Machine Learning
-
-<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&amp;theme=dark" alt="PyTorch, TensorFlow, scikit-learn" /></p>
-
-PyTorch · TensorFlow · scikit-learn · OpenAI API · Gemini API
-
-### Infrastructure & Tooling
-
-<p><img src="https://skillicons.dev/icons?i=docker,git,githubactions,raspberrypi&amp;theme=dark" alt="Docker, Git, GitHub Actions, Raspberry Pi" /></p>
-
-Docker · Git · GitHub Actions · Raspberry Pi
-
-**Observability:** Dynatrace · OpenPipeline · Grail · Davis AI · Splunk
-
-**Engineering practices:** REST APIs · CI/CD · Automated testing · Spec-driven development · AI-assisted workflows
-
----
-
-## 🚀 Featured projects
-
-| Project | What I built | Stack |
-| :--- | :--- | :--- |
-| [GridLock](https://github.com/Abhiramcodegit/gridlock-sperry-hackathon) | A hackathon prototype for discovering coordination opportunities between utilities’ planned transmission projects. Combines a deterministic geospatial scoring engine with an interactive evidence-driven map. | Python · FastAPI · PostGIS · React · MapLibre · Docker |
-| [Gamified Habit Tracker](https://github.com/Abhiramcodegit/gamified-habit-tracker) | Habit tracking with an RPG twist: daily quests, XP, character progression, achievements, and a leaderboard. | Django REST Framework · React · Vite · Tailwind CSS |
-| [Password Manager](https://github.com/Abhiramcodegit/password-manager-abhiram) | A full-stack password-management application with encrypted storage, JWT authentication, email verification, and password-generation tools. | MongoDB · Express · React · Node.js |
-| [The Abhi Archive](https://github.com/Abhiramcodegit/Abhiramcodegit.github.io) | My personal portfolio and technical blog—a space to share projects, document experiments, and think through the changing role of the software engineer. | Next.js · React · TypeScript · Tailwind CSS · MDX |
-
-[Explore my project portfolio →](https://abhiramcodegit.github.io/projects) · [Browse public repositories →](https://github.com/Abhiramcodegit?tab=repositories)
-
----
-
-## 🧭 What I’m exploring
-
-- AI-assisted engineering that pairs rapid iteration with clear specs and meaningful tests.
-- Context-aware agents, MCP-connected tools, and human-in-the-loop workflows.
-- Observability and infrastructure that make complex systems easier to understand.
-- Full-stack applications that turn useful ideas into approachable experiences.
-
----
-
-## 🤝 Let’s connect
-
-I enjoy conversations about software engineering, AI, infrastructure, and the things people are learning as they build. If something here overlaps with your work, let’s connect using the buttons above.
-
----
-
-<div align="center">
-  <sub>Thanks for stopping by. There’s always something new to learn—and something worth building.</sub>
-</div>
+</details>
