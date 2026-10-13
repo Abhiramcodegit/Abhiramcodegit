@@ -2,14 +2,14 @@
 
 <img src="./assets/hero.svg" alt="Abhiram Bhogi — Software Engineer working across AI/ML, full-stack systems, and infrastructure" width="100%" />
 
-Building useful software. Exploring intelligent systems. Sharing what I learn.
-
 <p>
-  <a href="https://abhiramcodegit.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT_WEBSITE-ff5722?style=for-the-badge&amp;labelColor=555555" alt="Portfolio — Visit Website" /></a>
-  <a href="https://abhiramcodegit.github.io/blog"><img src="https://img.shields.io/badge/BLOG-THE_ABHI_ARCHIVE-8b5cf6?style=for-the-badge&amp;labelColor=555555" alt="Blog — The Abhi Archive" /></a>
-  <a href="https://www.linkedin.com/in/abhiram-bhogi"><img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-0077b5?style=for-the-badge&amp;labelColor=555555" alt="LinkedIn — Let’s Connect" /></a>
-  <a href="mailto:abhiram.bhogi@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SEND_EMAIL-d44638?style=for-the-badge&amp;labelColor=555555" alt="Send Email to abhiram.bhogi@gmail.com" /></a>
+  <a href="https://abhiramcodegit.github.io/"><img src="./assets/nav-portfolio.svg" alt="Visit Abhiram's portfolio" width="23%" /></a>&nbsp;
+  <a href="https://abhiramcodegit.github.io/blog"><img src="./assets/nav-blog.svg" alt="Read The Abhi Archive" width="23%" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/abhiram-bhogi"><img src="./assets/nav-linkedin.svg" alt="Connect with Abhiram on LinkedIn" width="23%" /></a>&nbsp;
+  <a href="mailto:abhiram.bhogi@gmail.com"><img src="./assets/nav-email.svg" alt="Email Abhiram" width="23%" /></a>
 </p>
+
+Building useful software. Exploring intelligent systems. Sharing what I learn.
 
 </div>
 
