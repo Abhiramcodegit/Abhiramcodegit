@@ -32,7 +32,9 @@ Building useful software. Exploring intelligent systems. Sharing what I learn.
 
 <br /><br />
 
-### Contribution signal
+<img src="./assets/contribution-header.svg" alt="Contribution Signal — live GitHub activity that updates automatically" width="100%" />
+
+<br />
 
 <a href="https://github.com/Abhiramcodegit"><picture><source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/c084fc/Abhiramcodegit" /><source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/7c3aed/Abhiramcodegit" /><img src="https://ghchart.rshah.org/8b5cf6/Abhiramcodegit" alt="Abhiram's live GitHub contribution activity chart" width="100%" /></picture></a>
 
