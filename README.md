@@ -9,7 +9,7 @@
   <a href="mailto:abhiram.bhogi@gmail.com"><picture><source media="(max-width: 600px)" srcset="./assets/nav-email.svg" width="48%" /><img src="./assets/nav-email.svg" alt="Email Abhiram" width="23%" /></picture></a>
 </p>
 
-Building useful software. Exploring intelligent systems. Sharing what I learn.
+<img src="./assets/tagline.svg" alt="Building useful software. Exploring intelligent systems. Sharing what I learn." width="100%" />
 
 <br />
 
@@ -17,7 +17,9 @@ Building useful software. Exploring intelligent systems. Sharing what I learn.
 
 <br />
 
-### Featured builds
+<img src="./assets/featured-header.svg" alt="Featured builds — selected software, AI, infrastructure, and full-stack projects" width="100%" />
+
+<br />
 
 <p>
   <a href="https://github.com/Abhiramcodegit/gridlock-sperry-hackathon"><img src="./assets/project-gridlock.svg" alt="GridLock — geospatial coordination intelligence" width="48%" /></a>&nbsp;
