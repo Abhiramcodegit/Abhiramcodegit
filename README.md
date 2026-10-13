@@ -3,10 +3,12 @@
 <img src="./assets/hero.svg" alt="Abhiram Bhogi — Software Engineer working across AI/ML, full-stack systems, and infrastructure" width="100%" />
 
 <p>
-  <a href="https://abhiramcodegit.github.io/"><img src="./assets/nav-portfolio.svg" alt="Visit Abhiram's portfolio" width="23%" /></a>&nbsp;
-  <a href="https://abhiramcodegit.github.io/blog"><img src="./assets/nav-blog.svg" alt="Read The Abhi Archive" width="23%" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/abhiram-bhogi"><img src="./assets/nav-linkedin.svg" alt="Connect with Abhiram on LinkedIn" width="23%" /></a>&nbsp;
-  <a href="mailto:abhiram.bhogi@gmail.com"><img src="./assets/nav-email.svg" alt="Email Abhiram" width="23%" /></a>
+  <a href="https://abhiramcodegit.github.io/"><img src="./assets/nav-portfolio.svg" alt="Visit Abhiram's portfolio" width="48%" /></a>&nbsp;
+  <a href="https://abhiramcodegit.github.io/blog"><img src="./assets/nav-blog.svg" alt="Read The Abhi Archive" width="48%" /></a>
+</p>
+<p>
+  <a href="https://www.linkedin.com/in/abhiram-bhogi"><img src="./assets/nav-linkedin.svg" alt="Connect with Abhiram on LinkedIn" width="48%" /></a>&nbsp;
+  <a href="mailto:abhiram.bhogi@gmail.com"><img src="./assets/nav-email.svg" alt="Email Abhiram" width="48%" /></a>
 </p>
 
 Building useful software. Exploring intelligent systems. Sharing what I learn.
@@ -31,6 +33,10 @@ Building useful software. Exploring intelligent systems. Sharing what I learn.
 <a href="https://abhiramcodegit.github.io/projects">Explore the full project portfolio →</a> · <a href="https://github.com/Abhiramcodegit?tab=repositories">Browse public repositories →</a>
 
 <br /><br />
+
+<a href="https://github.com/Abhiramcodegit"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhiramcodegit&amp;bg_color=080a16&amp;color=d1d5db&amp;line=8b5cf6&amp;point=ff6b35&amp;area=true&amp;area_color=8b5cf6&amp;border_color=8b5cf6&amp;radius=16&amp;custom_title=Contribution%20Signal" alt="Abhiram's recent GitHub contribution activity graph" width="100%" /></a>
+
+<br />
 
 <img src="./assets/exploring.svg" alt="Exploring AI-assisted engineering, context-aware agents, observable infrastructure, and approachable full-stack products" width="100%" />
 
