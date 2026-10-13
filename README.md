@@ -3,12 +3,10 @@
 <img src="./assets/hero.svg" alt="Abhiram Bhogi — Software Engineer working across AI/ML, full-stack systems, and infrastructure" width="100%" />
 
 <p>
-  <a href="https://abhiramcodegit.github.io/"><img src="./assets/nav-portfolio.svg" alt="Visit Abhiram's portfolio" width="48%" /></a>&nbsp;
-  <a href="https://abhiramcodegit.github.io/blog"><img src="./assets/nav-blog.svg" alt="Read The Abhi Archive" width="48%" /></a>
-</p>
-<p>
-  <a href="https://www.linkedin.com/in/abhiram-bhogi"><img src="./assets/nav-linkedin.svg" alt="Connect with Abhiram on LinkedIn" width="48%" /></a>&nbsp;
-  <a href="mailto:abhiram.bhogi@gmail.com"><img src="./assets/nav-email.svg" alt="Email Abhiram" width="48%" /></a>
+  <a href="https://abhiramcodegit.github.io/"><picture><source media="(max-width: 600px)" srcset="./assets/nav-portfolio.svg" width="48%" /><img src="./assets/nav-portfolio.svg" alt="Visit Abhiram's portfolio" width="23%" /></picture></a>&nbsp;
+  <a href="https://abhiramcodegit.github.io/blog"><picture><source media="(max-width: 600px)" srcset="./assets/nav-blog.svg" width="48%" /><img src="./assets/nav-blog.svg" alt="Read The Abhi Archive" width="23%" /></picture></a>&nbsp;
+  <a href="https://www.linkedin.com/in/abhiram-bhogi"><picture><source media="(max-width: 600px)" srcset="./assets/nav-linkedin.svg" width="48%" /><img src="./assets/nav-linkedin.svg" alt="Connect with Abhiram on LinkedIn" width="23%" /></picture></a>&nbsp;
+  <a href="mailto:abhiram.bhogi@gmail.com"><picture><source media="(max-width: 600px)" srcset="./assets/nav-email.svg" width="48%" /><img src="./assets/nav-email.svg" alt="Email Abhiram" width="23%" /></picture></a>
 </p>
 
 Building useful software. Exploring intelligent systems. Sharing what I learn.
