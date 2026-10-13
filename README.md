@@ -1,96 +1,71 @@
 <div align="center">
 
-# Hey, I’m Abhiram 👋
+<img src="./assets/hero.svg" alt="Abhiram Bhogi — Software Engineer working across AI/ML, full-stack systems, and infrastructure" width="100%" />
 
-### Software Engineer · Full-Stack & Infrastructure · AI/ML
+<p>
+  <a href="https://abhiramcodegit.github.io/"><picture><source media="(max-width: 600px)" srcset="./assets/nav-portfolio.svg" width="48%" /><img src="./assets/nav-portfolio.svg" alt="Visit Abhiram's portfolio" width="23%" /></picture></a>&nbsp;
+  <a href="https://abhiramcodegit.github.io/blog"><picture><source media="(max-width: 600px)" srcset="./assets/nav-blog.svg" width="48%" /><img src="./assets/nav-blog.svg" alt="Read The Abhi Archive" width="23%" /></picture></a>&nbsp;
+  <a href="https://www.linkedin.com/in/abhiram-bhogi"><picture><source media="(max-width: 600px)" srcset="./assets/nav-linkedin.svg" width="48%" /><img src="./assets/nav-linkedin.svg" alt="Connect with Abhiram on LinkedIn" width="23%" /></picture></a>&nbsp;
+  <a href="mailto:abhiram.bhogi@gmail.com"><picture><source media="(max-width: 600px)" srcset="./assets/nav-email.svg" width="48%" /><img src="./assets/nav-email.svg" alt="Email Abhiram" width="23%" /></picture></a>
+</p>
 
 Building useful software. Exploring intelligent systems. Sharing what I learn.
 
-### Let’s Build Something Amazing Together
+<br />
 
-<p><a href="https://abhiramcodegit.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT_WEBSITE-ff5722?style=for-the-badge&amp;labelColor=555555" alt="Portfolio — Visit Website" /></a></p>
-<p><a href="https://abhiramcodegit.github.io/blog"><img src="https://img.shields.io/badge/BLOG-THE_ABHI_ARCHIVE-8b5cf6?style=for-the-badge&amp;labelColor=555555" alt="Blog — The Abhi Archive" /></a></p>
-<p><a href="https://www.linkedin.com/in/abhiram-bhogi"><img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-0077b5?style=for-the-badge&amp;labelColor=555555" alt="LinkedIn — Let’s Connect" /></a></p>
-<p><a href="mailto:abhiram.bhogi@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SEND_EMAIL-d44638?style=for-the-badge&amp;labelColor=555555" alt="Send Email to abhiram.bhogi@gmail.com" /></a></p>
+<img src="./assets/tech-stack.svg" alt="Engineering toolkit: Python, JavaScript, TypeScript, React, Next.js, FastAPI, Django, Flask, Node.js, PostgreSQL, PostGIS, MongoDB, Supabase, PyTorch, TensorFlow, scikit-learn, Docker, GitHub Actions, Dynatrace, and Splunk" width="100%" />
+
+<br />
+
+### Featured builds
+
+<p>
+  <a href="https://github.com/Abhiramcodegit/gridlock-sperry-hackathon"><img src="./assets/project-gridlock.svg" alt="GridLock — geospatial coordination intelligence" width="48%" /></a>&nbsp;
+  <a href="https://github.com/Abhiramcodegit/gamified-habit-tracker"><img src="./assets/project-habit.svg" alt="Gamified Habit Tracker — habits as quests and progression" width="48%" /></a>
+</p>
+<p>
+  <a href="https://github.com/Abhiramcodegit/password-manager-abhiram"><img src="./assets/project-password.svg" alt="Password Manager — secure full-stack credential management" width="48%" /></a>&nbsp;
+  <a href="https://github.com/Abhiramcodegit/Abhiramcodegit.github.io"><img src="./assets/project-archive.svg" alt="The Abhi Archive — portfolio and technical blog" width="48%" /></a>
+</p>
+
+<a href="https://abhiramcodegit.github.io/projects">Explore the full project portfolio →</a> · <a href="https://github.com/Abhiramcodegit?tab=repositories">Browse public repositories →</a>
+
+<br /><br />
+
+<a href="https://github.com/Abhiramcodegit"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhiramcodegit&amp;bg_color=080a16&amp;color=d1d5db&amp;line=8b5cf6&amp;point=ff6b35&amp;area=true&amp;area_color=8b5cf6&amp;border_color=8b5cf6&amp;radius=16&amp;custom_title=Contribution%20Signal" alt="Abhiram's recent GitHub contribution activity graph" width="100%" /></a>
+
+<br />
+
+<img src="./assets/exploring.svg" alt="Exploring AI-assisted engineering, context-aware agents, observable infrastructure, and approachable full-stack products" width="100%" />
+
+<br />
+
+<img src="./assets/connect.svg" alt="Let's build something useful — connect about software engineering, AI systems, and infrastructure" width="100%" />
 
 </div>
 
----
+<details>
+<summary><strong>Accessible text version</strong></summary>
 
-## 🛠️ Tech stack
+## Engineering toolkit
 
-Technologies I’ve used across projects, research, and engineering work.
+- **Languages:** Python, JavaScript, TypeScript
+- **Frontend:** React, Next.js, Tailwind CSS, Vite
+- **Backend and APIs:** FastAPI, Django, Flask, Node.js, Express
+- **Data:** PostgreSQL/PostGIS, MongoDB, Supabase
+- **AI and machine learning:** PyTorch, TensorFlow, scikit-learn, OpenAI API, Gemini API
+- **Infrastructure:** Docker, Git, GitHub Actions, Raspberry Pi, CI/CD, automated testing
+- **Observability:** Dynatrace, OpenPipeline, Grail, Davis AI, Splunk
 
-### Languages
+## Featured projects
 
-<p><img src="https://skillicons.dev/icons?i=py,js,ts&amp;theme=dark" alt="Python, JavaScript, TypeScript" /></p>
+- [GridLock](https://github.com/Abhiramcodegit/gridlock-sperry-hackathon): Geospatial coordination intelligence for utilities’ planned transmission projects.
+- [Gamified Habit Tracker](https://github.com/Abhiramcodegit/gamified-habit-tracker): Daily quests, XP, progression, achievements, and a leaderboard.
+- [Password Manager](https://github.com/Abhiramcodegit/password-manager-abhiram): Encrypted storage, JWT authentication, verification, and password generation.
+- [The Abhi Archive](https://github.com/Abhiramcodegit/Abhiramcodegit.github.io): My portfolio, technical blog, projects, and engineering notes.
 
-Python · JavaScript · TypeScript
+## Current interests
 
-### Frontend
+AI-assisted engineering, context-aware agents, MCP-connected tools, human-in-the-loop workflows, observable infrastructure, and approachable full-stack products.
 
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&amp;theme=dark" alt="React, Next.js, Tailwind CSS, Vite" /></p>
-
-React · Next.js · Tailwind CSS · Vite
-
-### Backend & APIs
-
-<p><img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express&amp;theme=dark" alt="FastAPI, Django, Flask, Node.js, Express" /></p>
-
-FastAPI · Django · Flask · Node.js · Express
-
-### Databases
-
-<p><img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase&amp;theme=dark" alt="PostgreSQL, MongoDB, Supabase" /></p>
-
-PostgreSQL / PostGIS · MongoDB · Supabase
-
-### AI & Machine Learning
-
-<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&amp;theme=dark" alt="PyTorch, TensorFlow, scikit-learn" /></p>
-
-PyTorch · TensorFlow · scikit-learn · OpenAI API · Gemini API
-
-### Infrastructure & Tooling
-
-<p><img src="https://skillicons.dev/icons?i=docker,git,githubactions,raspberrypi&amp;theme=dark" alt="Docker, Git, GitHub Actions, Raspberry Pi" /></p>
-
-Docker · Git · GitHub Actions · Raspberry Pi
-
-**Observability:** Dynatrace · OpenPipeline · Grail · Davis AI · Splunk
-
-**Engineering practices:** REST APIs · CI/CD · Automated testing · Spec-driven development · AI-assisted workflows
-
----
-
-## 🚀 Featured projects
-
-| Project | What I built | Stack |
-| :--- | :--- | :--- |
-| [GridLock](https://github.com/Abhiramcodegit/gridlock-sperry-hackathon) | A hackathon prototype for discovering coordination opportunities between utilities’ planned transmission projects. Combines a deterministic geospatial scoring engine with an interactive evidence-driven map. | Python · FastAPI · PostGIS · React · MapLibre · Docker |
-| [Gamified Habit Tracker](https://github.com/Abhiramcodegit/gamified-habit-tracker) | Habit tracking with an RPG twist: daily quests, XP, character progression, achievements, and a leaderboard. | Django REST Framework · React · Vite · Tailwind CSS |
-| [Password Manager](https://github.com/Abhiramcodegit/password-manager-abhiram) | A full-stack password-management application with encrypted storage, JWT authentication, email verification, and password-generation tools. | MongoDB · Express · React · Node.js |
-| [The Abhi Archive](https://github.com/Abhiramcodegit/Abhiramcodegit.github.io) | My personal portfolio and technical blog—a space to share projects, document experiments, and think through the changing role of the software engineer. | Next.js · React · TypeScript · Tailwind CSS · MDX |
-
-[Explore my project portfolio →](https://abhiramcodegit.github.io/projects) · [Browse public repositories →](https://github.com/Abhiramcodegit?tab=repositories)
-
----
-
-## 🧭 What I’m exploring
-
-- AI-assisted engineering that pairs rapid iteration with clear specs and meaningful tests.
-- Context-aware agents, MCP-connected tools, and human-in-the-loop workflows.
-- Observability and infrastructure that make complex systems easier to understand.
-- Full-stack applications that turn useful ideas into approachable experiences.
-
----
-
-## 🤝 Let’s connect
-
-I enjoy conversations about software engineering, AI, infrastructure, and the things people are learning as they build. If something here overlaps with your work, let’s connect using the buttons above.
-
----
-
-<div align="center">
-  <sub>Thanks for stopping by. There’s always something new to learn—and something worth building.</sub>
-</div>
+</details>
