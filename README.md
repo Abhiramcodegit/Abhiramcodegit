@@ -17,28 +17,6 @@ Building useful software. Exploring intelligent systems. Sharing what I learn.
 
 ---
 
-## 👨‍💻 About me
-
-I’m a software engineer working across full-stack development, cloud infrastructure, and AI/ML. I enjoy connecting the pieces: an intuitive interface, a well-designed backend, and the infrastructure that makes the whole system dependable.
-
-Born in India and raised in the United States from age eight, I’ve always been curious about how technology works. That curiosity became coding in high school, and an interest in AI grew into a major focus during college. I earned my B.S. in Computer Science from Florida International University, Class of 2026.
-
-What excites me most is how AI changes the way we build. I’m interested in moving beyond one-off prompts toward thoughtful orchestration: clear specifications, connected tools, reliable systems, and human judgment. I want to build faster without treating testing, understanding, or accountability as optional.
-
-### Where I’ve been building
-
-- **Reliability & infrastructure.** During my SRE internship at Carnival Corporation, I worked on observability dashboards, Dynatrace OpenPipeline log processing, and deployment automation integrated with enterprise CI/CD. That experience shaped how I think about debugging, telemetry, and dependable releases.
-
-- **Conversational AI & research.** My work at FIU’s VISAGE Lab has involved generative-AI pipelines, OpenAI API integrations, and visual cues for more natural interactions with virtual social agents.
-
-- **AI beyond the browser.** Through an MSEIP fellowship, I helped build a Raspberry Pi voice-controlled AI assistant connecting local hardware with cloud language models, and contributed to research presented at the WRFER Conference.
-
-Outside of code, I co-founded my university’s CS & Tech Club, served as Membership & Treasury Director, and played point guard as an NAIA student-athlete. Teamwork, curiosity, and showing up consistently matter to me—on and off the court.
-
-[Read my full story →](https://abhiramcodegit.github.io/about)
-
----
-
 ## 🛠️ Tech stack
 
 Technologies I’ve used across projects, research, and engineering work.
@@ -95,26 +73,6 @@ Docker · Git · GitHub Actions · Raspberry Pi
 | [The Abhi Archive](https://github.com/Abhiramcodegit/Abhiramcodegit.github.io) | My personal portfolio and technical blog—a space to share projects, document experiments, and think through the changing role of the software engineer. | Next.js · React · TypeScript · Tailwind CSS · MDX |
 
 [Explore my project portfolio →](https://abhiramcodegit.github.io/projects) · [Browse public repositories →](https://github.com/Abhiramcodegit?tab=repositories)
-
----
-
-## ✍️ From The Abhi Archive
-
-I write about what I’m learning, what I’m building, and how AI is changing the engineering workflow. Think of it as a learn-with-me space—not a finished playbook.
-
-### [Beyond the Chatbot: Why Specialized Engineering is the Ultimate Moat Against Generic LLMs](https://abhiramcodegit.github.io/blog/beyond-the-chatbot-specialized-engineering-moat)
-
-Thoughts on building specialized products rather than stopping at a generic AI interface.
-
-### [Beyond the Prompt: How Agentic IDEs, MCP, and an SRE Mindset Are Redefining the Engineering Learning Curve](https://abhiramcodegit.github.io/blog/beyond-the-prompt-agentic-ides-mcp-and-the-sre-mindset)
-
-Lessons from observability engineering, AI-assisted learning, and keeping reliability at the center of the workflow.
-
-### [Hardware Meets the Cloud: Architecting a Voice Controlled IoT Device](https://abhiramcodegit.github.io/blog/hardware-meets-the-cloud-voice-controlled-iot)
-
-An engineering walkthrough of connecting Raspberry Pi audio hardware with cloud language models.
-
-[Read the blog →](https://abhiramcodegit.github.io/blog)
 
 ---
 
