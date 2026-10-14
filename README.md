@@ -38,7 +38,7 @@
 
 <br />
 
-<a href="https://github.com/Abhiramcodegit"><picture><source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/c084fc/Abhiramcodegit" /><source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/7c3aed/Abhiramcodegit" /><img src="https://ghchart.rshah.org/8b5cf6/Abhiramcodegit" alt="Abhiram's live GitHub contribution activity chart" width="100%" /></picture></a>
+<a href="https://github.com/Abhiramcodegit"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhiramcodegit/Abhiramcodegit/output/github-contribution-grid-snake-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhiramcodegit/Abhiramcodegit/output/github-contribution-grid-snake.svg" /><img src="https://raw.githubusercontent.com/Abhiramcodegit/Abhiramcodegit/output/github-contribution-grid-snake.svg" alt="Animated snake eating through Abhiram's GitHub contribution graph" width="100%" /></picture></a>
 
 <br /><br />
 
