@@ -27,7 +27,7 @@
 </p>
 <p>
   <a href="https://github.com/Abhiramcodegit/password-manager-abhiram"><img src="./assets/project-password.svg" alt="Password Manager — secure full-stack credential management" width="48%" /></a>&nbsp;
-  <a href="https://github.com/Abhiramcodegit/Abhiramcodegit.github.io"><img src="./assets/project-archive.svg" alt="The Abhi Archive — portfolio and technical blog" width="48%" /></a>
+  <a href="https://github.com/Abhiramcodegit/Abhiramcodegit.github.io"><img src="./assets/project-archive-duck.svg" alt="The Abhi Archive — portfolio and technical blog with rubber duck logo" width="48%" /></a>
 </p>
 
 <a href="https://abhiramcodegit.github.io/projects">Explore the full project portfolio →</a> · <a href="https://github.com/Abhiramcodegit?tab=repositories">Browse public repositories →</a>
