@@ -20,15 +20,17 @@
   <text x="28" y="238" fill="#c4b5fd" font-family="ui-sans-serif,system-ui,sans-serif" font-size="14" font-weight="700">EXPLORE THE ARCHIVE →</text>
   <g transform="translate(385 45)">
     <circle cx="82" cy="84" r="76" fill="#8b5cf6" fill-opacity=".10" stroke="#a78bfa" stroke-opacity=".34" stroke-width="2"/>
-    <ellipse cx="78" cy="132" rx="58" ry="38" fill="url(#duck)" stroke="#f6c20b" stroke-width="2"/>
-    <circle cx="83" cy="75" r="43" fill="url(#duck)" stroke="#f6c20b" stroke-width="2"/>
-    <ellipse cx="45" cy="132" rx="24" ry="29" fill="#ffe22a" stroke="#f6c20b" stroke-width="2" transform="rotate(15 45 132)"/>
-    <ellipse cx="113" cy="133" rx="25" ry="29" fill="#ffd31a" stroke="#f0ae00" stroke-width="2" transform="rotate(-12 113 133)"/>
-    <circle cx="95" cy="67" r="7.5" fill="#191512"/>
-    <circle cx="92.5" cy="64.5" r="2.2" fill="#fff"/>
-    <path d="M112 79c17 0 28 7 34 14-8 8-19 12-35 11l-14-12z" fill="url(#beak)" stroke="#ef5a23" stroke-width="2" stroke-linejoin="round"/>
-    <path d="M101 92h39" stroke="#d9481a" stroke-width="1.5" stroke-linecap="round" opacity=".65"/>
-    <ellipse cx="67" cy="52" rx="13" ry="7" fill="#fff" opacity=".2" transform="rotate(-20 67 52)"/>
-    <ellipse cx="78" cy="165" rx="48" ry="5" fill="#ff6b35" opacity=".18"/>
+    <g transform="translate(14 13) scale(.82)">
+      <ellipse cx="78" cy="132" rx="58" ry="38" fill="url(#duck)" stroke="#f6c20b" stroke-width="2"/>
+      <circle cx="83" cy="75" r="43" fill="url(#duck)" stroke="#f6c20b" stroke-width="2"/>
+      <ellipse cx="45" cy="132" rx="24" ry="29" fill="#ffe22a" stroke="#f6c20b" stroke-width="2" transform="rotate(15 45 132)"/>
+      <ellipse cx="113" cy="133" rx="25" ry="29" fill="#ffd31a" stroke="#f0ae00" stroke-width="2" transform="rotate(-12 113 133)"/>
+      <circle cx="95" cy="67" r="7.5" fill="#191512"/>
+      <circle cx="92.5" cy="64.5" r="2.2" fill="#fff"/>
+      <path d="M112 79c17 0 28 7 34 14-8 8-19 12-35 11l-14-12z" fill="url(#beak)" stroke="#ef5a23" stroke-width="2" stroke-linejoin="round"/>
+      <path d="M101 92h39" stroke="#d9481a" stroke-width="1.5" stroke-linecap="round" opacity=".65"/>
+      <ellipse cx="67" cy="52" rx="13" ry="7" fill="#fff" opacity=".2" transform="rotate(-20 67 52)"/>
+      <ellipse cx="78" cy="165" rx="48" ry="5" fill="#ff6b35" opacity=".18"/>
+    </g>
   </g>
 </svg>
