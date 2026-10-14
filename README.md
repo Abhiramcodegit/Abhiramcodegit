@@ -9,7 +9,7 @@
   <a href="mailto:abhiram.bhogi@gmail.com"><picture><source media="(max-width: 600px)" srcset="./assets/nav-email.svg" width="48%" /><img src="./assets/nav-email.svg" alt="Email Abhiram" width="23%" /></picture></a>
 </p>
 
-<img src="./assets/tagline.svg" alt="Building useful software. Exploring intelligent systems. Sharing what I learn." width="100%" />
+<img src="./assets/tagline-v2.svg" alt="Building useful software. Exploring intelligent systems. Sharing what I learn." width="100%" />
 
 <br />
 
@@ -17,7 +17,7 @@
 
 <br />
 
-<img src="./assets/featured-header.svg" alt="Featured builds — selected software, AI, infrastructure, and full-stack projects" width="100%" />
+<img src="./assets/featured-header-v2.svg" alt="Featured builds — selected software, AI, infrastructure, and full-stack projects" width="100%" />
 
 <br />
 
@@ -27,14 +27,14 @@
 </p>
 <p>
   <a href="https://github.com/Abhiramcodegit/password-manager-abhiram"><img src="./assets/project-password.svg" alt="Password Manager — secure full-stack credential management" width="48%" /></a>&nbsp;
-  <a href="https://github.com/Abhiramcodegit/Abhiramcodegit.github.io"><img src="./assets/project-archive-duck.svg" alt="The Abhi Archive — portfolio and technical blog with rubber duck logo" width="48%" /></a>
+  <a href="https://github.com/Abhiramcodegit/Abhiramcodegit.github.io"><img src="./assets/project-archive-duck-v2.svg" alt="The Abhi Archive — portfolio and technical blog with rubber duck logo" width="48%" /></a>
 </p>
 
 <a href="https://abhiramcodegit.github.io/projects">Explore the full project portfolio →</a> · <a href="https://github.com/Abhiramcodegit?tab=repositories">Browse public repositories →</a>
 
 <br /><br />
 
-<img src="./assets/contribution-header.svg" alt="Contribution Signal — live GitHub activity that updates automatically" width="100%" />
+<img src="./assets/contribution-header-v2.svg" alt="Contribution Signal — live GitHub activity that updates automatically" width="100%" />
 
 <br />
 
