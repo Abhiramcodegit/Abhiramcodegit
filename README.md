@@ -38,7 +38,11 @@
 
 <br />
 
-<a href="https://github.com/Abhiramcodegit"><picture><source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/c084fc/Abhiramcodegit" /><source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/7c3aed/Abhiramcodegit" /><img src="https://ghchart.rshah.org/8b5cf6/Abhiramcodegit" alt="Abhiram's live GitHub contribution activity chart" width="100%" /></picture></a>
+<a href="https://github.com/Abhiramcodegit"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhiramcodegit/Abhiramcodegit/output/github-contribution-grid-snake-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhiramcodegit/Abhiramcodegit/output/github-contribution-grid-snake.svg" /><img src="https://raw.githubusercontent.com/Abhiramcodegit/Abhiramcodegit/output/github-contribution-grid-snake.svg" alt="Animated snake eating through Abhiram's GitHub contribution graph" width="100%" /></picture></a>
+
+<br /><br />
+
+<a href="https://github.com/Abhiramcodegit?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiramcodegit&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=c084fc&amp;text_color=c9d1d9" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiramcodegit&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=7c3aed&amp;text_color=24292f" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiramcodegit&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=8b5cf6" alt="Abhiram's most used languages across public repositories" width="60%" /></picture></a>
 
 <br />
 
