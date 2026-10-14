@@ -40,6 +40,13 @@
 
 <a href="https://github.com/Abhiramcodegit"><picture><source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/c084fc/Abhiramcodegit" /><source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/7c3aed/Abhiramcodegit" /><img src="https://ghchart.rshah.org/8b5cf6/Abhiramcodegit" alt="Abhiram's live GitHub contribution activity chart" width="100%" /></picture></a>
 
+<br /><br />
+
+<p>
+  <a href="https://github.com/Abhiramcodegit"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Abhiramcodegit&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=c084fc&amp;icon_color=a78bfa&amp;text_color=c9d1d9" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Abhiramcodegit&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=7c3aed&amp;icon_color=7c3aed&amp;text_color=24292f" /><img src="https://github-readme-stats.vercel.app/api?username=Abhiramcodegit&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=8b5cf6&amp;icon_color=8b5cf6" alt="Abhiram's GitHub stats: stars, commits, pull requests, and issues" width="48%" /></picture></a>&nbsp;
+  <a href="https://github.com/Abhiramcodegit?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiramcodegit&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=c084fc&amp;text_color=c9d1d9" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiramcodegit&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=7c3aed&amp;text_color=24292f" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiramcodegit&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=8b5cf6" alt="Abhiram's most used languages across public repositories" width="48%" /></picture></a>
+</p>
+
 <br />
 
 <img src="./assets/exploring.svg" alt="Exploring AI-assisted engineering, context-aware agents, observable infrastructure, and approachable full-stack products" width="100%" />
